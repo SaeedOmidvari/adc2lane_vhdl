@@ -21,10 +21,10 @@ Designed with **clean FSM architecture**, **datasheet‑accurate SPI timing**, a
 ## 📷 Visual Timing Overview
 
 ### SPI Mode & Sampling Strategy
-![SPI Mode 1 Timing](docs/images/spi_mode1_generic.png)
+![SPI Mode 1 Timing](docs/images/adc2lane_tb_behav.png)
 
-### AD7476A Datasheet‑Accurate Timing
-![AD7476A Timing Diagram](docs/images/ad7476a_timing.png)
+### AD7476A Datasheet-Accurate Timing
+![AD7476A Timing Diagram](docs/images/spi_timing_ad7476a.png)
 
 These diagrams directly reflect the **implemented logic** and the **verified simulation waveforms**.
 
